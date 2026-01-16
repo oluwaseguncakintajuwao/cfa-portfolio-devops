@@ -1,0 +1,16 @@
+ # Core data handling
+pandas==2.2.2
+numpy==2.0.1
+
+# Market data ingestion
+yfinance==0.2.43
+
+# Database & ORM
+SQLAlchemy==2.0.32
+psycopg2-binary==2.9.9
+
+# Configuration & environment variables
+python-dotenv==1.0.1
+
+# Testing (DevOps quality gate)
+pytest==8.3.2
