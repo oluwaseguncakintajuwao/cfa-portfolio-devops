@@ -5,7 +5,7 @@ numpy==2.0.1
 # Market data ingestion
 yfinance==0.2.43
 
-# Database & ORM
+# Database & Object-Relational Mapping (ORM)
 SQLAlchemy==2.0.32
 psycopg2-binary==2.9.9
 
